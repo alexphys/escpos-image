@@ -1,4 +1,4 @@
-module Escpos
+module EscposImage
 
   class DimensionsMustBeMultipleOf8 < ArgumentError
     def message

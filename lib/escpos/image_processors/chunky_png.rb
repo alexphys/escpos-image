@@ -1,6 +1,6 @@
 require_relative "base"
 
-module Escpos
+module EscposImage
   module ImageProcessors
     class ChunkyPng < Base
 

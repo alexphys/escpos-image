@@ -1,4 +1,4 @@
-module Escpos
+module EscposImage
   module Helpers
     extend self
 

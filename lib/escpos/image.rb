@@ -3,7 +3,7 @@ require_relative "helpers"
 require_relative "image_processors/chunky_png"
 require_relative "image_processors/mini_magick"
 
-module Escpos
+module EscposImage
 
   # Images
   IMAGE = [ 0x1d, 0x76, 0x30, 0x00 ] # Start image pixel data
